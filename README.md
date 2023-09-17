@@ -1,2 +1,3 @@
 # instagrampost
-Author - Bapuji Pradhan
+Author - Bapuji Pradhan(Full Stack Developer)
+
