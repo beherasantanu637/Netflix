@@ -1,2 +1,2 @@
-# instagrampost
+# Landing Page
 Author - Bapuji Pradhan
