@@ -362,6 +362,7 @@ footer li {
     }
     .header{
         padding: 10px 1%;
+        height:75vh;
     }
     .lang{
         padding: 2px 10px;
@@ -380,6 +381,7 @@ footer li {
         font-size: 2rem;
         text-align: center;
         line-height: 45px;
+        font-weight: 700;
     }
 
     .header-content h3 {
